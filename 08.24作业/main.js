@@ -1,5 +1,6 @@
 import Vue from "vue";
-import App from "./App.vue";
+// import App from "./App.vue";
+
 // 1. 导入 vue 作业
 // import App from "./01-美女帅哥.vue";
 // import App from "./02-增删数据.vue";
